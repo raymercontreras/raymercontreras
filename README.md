@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Raymer Contreras. I'm studying to becaome a "self-taught" developer.
 
 <!--
 **raymercontreras/raymercontreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
